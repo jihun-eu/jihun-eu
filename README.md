@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello! 👋
 
-I'm a data engineer Jihun Eu.
+I'm a Backend engineer Jihun Eu.
 
 ### 💼 Experience
 
